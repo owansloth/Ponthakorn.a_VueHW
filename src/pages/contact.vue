@@ -14,7 +14,11 @@
       <p>E-mail : {{ email }}</p>
       <img src="@/assets/logoig.png" height="45" width="45" />
       <p>Instagram : {{ instagram }}</p>
-      <img src="@/assets/logo2.png" height="45" width="45" />
+      <img
+        src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/nT77-logo2.png"
+        height="45"
+        width="45"
+      />
       <p>Facebook : {{ facebook }}</p>
       <br />
 
