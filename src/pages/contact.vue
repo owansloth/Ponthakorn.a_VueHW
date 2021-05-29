@@ -8,11 +8,23 @@
   >
     <div class="container text-center" style="text-align: center">
       <h1>Contact</h1>
-      <img src="@/assets/logo4.png" height="45" width="45" />
+      <img
+        src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/Z_uk-logo4.png"
+        height="45"
+        width="45"
+      />
       <p>Phone : {{ phone }}</p>
-      <img src="@/assets/logo1.png" height="45" width="45" />
+      <img
+        src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/TIeH-logo1.png"
+        height="45"
+        width="45"
+      />
       <p>E-mail : {{ email }}</p>
-      <img src="@/assets/logoig.png" height="45" width="45" />
+      <img
+        src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/3O_A-logoig.png"
+        height="45"
+        width="45"
+      />
       <p>Instagram : {{ instagram }}</p>
       <img
         src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/nT77-logo2.png"
@@ -28,7 +40,11 @@
             <th>
               <p>Home</p>
               <button @click="goHome()">
-                <img src="@/assets/home.png" height="45" width="45" />
+                <img
+                  src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/Gwl3-home.png"
+                  height="45"
+                  width="45"
+                />
               </button>
             </th>
 
@@ -37,7 +53,11 @@
             <th>
               <p>Profile</p>
               <button @click="goProfile()">
-                <img src="@/assets/profile.png" height="45" width="45" />
+                <img
+                  src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/f8QX-profile.png"
+                  height="45"
+                  width="45"
+                />
               </button>
             </th>
           </tr>

@@ -14,7 +14,11 @@
           <th>
             <p>My Profile</p>
             <button @click="goProfile()">
-              <img src="@/assets/profile.png" height="45" width="45" />
+              <img
+                src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/f8QX-profile.png"
+                height="45"
+                width="45"
+              />
             </button>
           </th>
 
@@ -23,7 +27,11 @@
           <th>
             <p>Contact</p>
             <button @click="goContact()">
-              <img src="@/assets/contact.png" height="45" width="45" />
+              <img
+                src="https://uploads.codesandbox.io/uploads/user/761cc845-c457-4b86-a7bf-9179aeba1f52/gNE1-contact.png"
+                height="45"
+                width="45"
+              />
             </button>
           </th>
         </tr>
