@@ -3,7 +3,7 @@
     class="bg-image"
     style="
       background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.jpg');
-      height: 150vh;
+      height: 120vh;
     "
   >
     <div class="container text-center" style="text-align: center">
@@ -39,8 +39,8 @@
       <br />
       <iframe
         src="https://giphy.com/embed/Cmr1OMJ2FN0B2"
-        width="480"
-        height="480"
+        width="300"
+        height="300"
         frameBorder="0"
         class="giphy-embed"
         allowFullScreen
